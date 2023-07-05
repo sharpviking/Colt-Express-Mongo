@@ -1,3 +1,3 @@
 # Colt-Express-Mongo
 
-### Cpmbining Mongo in Express
+### Combining Mongo in Express App
